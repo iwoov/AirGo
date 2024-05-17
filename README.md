@@ -70,13 +70,13 @@ TG群组：[https://t.me/AirGo_Group](https://t.me/AirGo_Group)
 
 <table>
 <tr>
-    <td> <img src="https://github.com/ppoonk/AirGo/raw/main/assets/image/1.png">
-    <td> <img src="https://github.com/ppoonk/AirGo/raw/main/assets/image/2.png">
-    <td> <img src="https://github.com/ppoonk/AirGo/raw/main/assets/image/3.png">
+    <td> <img src="https://github.com/AirGo-Official/AirGo/raw/main/assets/image/1.png">
+    <td> <img src="https://github.com/AirGo-Official/AirGo/raw/main/assets/image/2.png">
+    <td> <img src="https://github.com/AirGo-Official/AirGo/raw/main/assets/image/3.png">
 <tr>
-    <td> <img src="https://github.com/ppoonk/AirGo/raw/main/assets/image/4.png">
-    <td> <img src="https://github.com/ppoonk/AirGo/raw/main/assets/image/5.png">
-    <td> <img src="https://github.com/ppoonk/AirGo/raw/main/assets/image/6.png">
+    <td> <img src="https://github.com/AirGo-Official/AirGo/raw/main/assets/image/4.png">
+    <td> <img src="https://github.com/AirGo-Official/AirGo/raw/main/assets/image/5.png">
+    <td> <img src="https://github.com/AirGo-Official/AirGo/raw/main/assets/image/6.png">
 </table>
 <table>
 <tr>
