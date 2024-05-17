@@ -92,7 +92,7 @@ TG群组：[https://t.me/AirGo_Group](https://t.me/AirGo_Group)
 - 安装核心，使用Ubuntu、Debian、Centos等Linux系统，执行以下命令，然后根据提示安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/shuangyu233/AirGo_Modify/main/server/scripts/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/AirGo-Official/AirGo/main/server/scripts/install.sh)
 ```
 
 - 修改配置文件，配置文件目录 `/usr/local/AirGo/config.yaml`，首次安装，会根据配置文件config.yaml自动初始化数据，请务必修改管理员账号和密码
@@ -163,7 +163,7 @@ services:
 
 ### 2-1-1 直接安装
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/shuangyu233/AirGo_Modify/main/server/scripts/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/AirGo-Official/AirGo/main/server/scripts/install.sh)
 ```
 
 - 修改配置文件，配置文件目录 `/usr/local/AirGo/config.yaml`，首次安装，会根据配置文件config.yaml自动初始化数据，请务必修改管理员账号和密码
