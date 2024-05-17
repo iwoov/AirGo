@@ -60,7 +60,7 @@ Supported protocols：Vless，Vmess，shadowsocks，Hysteria2
 
 >TG频道：[https://t.me/AirGo_Channel](https://t.me/AirGo_Channel)
 TG群组：[https://t.me/AirGo_Group](https://t.me/AirGo_Group)
-文档上次更新日期：2024.4.8
+文档上次更新日期：2024.5.18
 
 <br>
 
